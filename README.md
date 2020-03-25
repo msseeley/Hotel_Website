@@ -5,7 +5,7 @@ This project is based on a CSS tutorial. The objective is to practice CSS concep
 - Box Model
 - Positioning
 - Selectors
-- CSS organization
+- File structure and organization
 - Floats and Alignment
 - Classes and Ids
 
