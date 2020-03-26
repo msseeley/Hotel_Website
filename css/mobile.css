@@ -1,4 +1,4 @@
-/* navbar */
+/* Navbar */
 #navbar .logo{
   float: none;
   text-align: center;
@@ -12,6 +12,12 @@
 #navbar ul li a{
   padding: 5px;
   border-bottom: #444 dotted 1px;
+}
+
+/* Show case */
+
+#showcase .showcase-content{
+  padding-top: 100px;
 }
 
 /* Home Info */
@@ -49,4 +55,10 @@
 
 .l-heading{
   text-align: center;
+}
+
+/* Contact */
+
+#contact-info .box{
+  border-bottom: #444 dotted 1px;
 }
